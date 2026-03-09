@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.woobl.ru/epg.xml.gz"
 
+#EXTINF:-1 group-title="Инфо" tvg-name="[@projecturustv] Приветствие" tvg-id="hello",[@projecturustv] Приветствие
+https://iptv.projecturus.lol/index.m3u8
 #EXTINF:-1 group-title="🔅 Основные" tvg-name="Первый канал" tvg-id="pervy" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал
 http://tv.woobl.ru:9090/channel/64e387a4/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 group-title="🔅 Основные" tvg-name="Первый канал Европа" tvg-id="pervy-kanal-eu",Первый канал Европа
@@ -1981,3 +1983,4 @@ https://homtv.ru/3855888/SKY_HIGH_SPACE_4K_HDR/video.m3u8
 https://homtv.ru/3855888/SKY_HIGH_HORROR_4K_HDR/video.m3u8
 #EXTINF:-1 group-title="☁️ SKY HIGH",SKY HIGH LOFI HD
 https://homtv.ru/3855888/SKY_HIGH_LO_FIHD/video.m3u8
+
