@@ -2240,7 +2240,7 @@ http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 tvg-id="yamal-region" tvg-logo="http://epg.one/img2/yamal-region.png" group-title="Разное" ,Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="yamal-region" tvg-logo="http://epg.one/img2/yamal-region.png" group-title="XXX" ,[@projecturustv] ПРЕДУПРЕЖДЕНИЕ
-http://iptv.projecturus.lol/warn.m3u8
+https://iptv.projecturus.lol/warning.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",MILF
@@ -2290,7 +2290,6 @@ http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Gay
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Asian
-
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-id="Woman" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Woman
 https://live.redtraffic.net/woman.m3u8
@@ -2398,3 +2397,4 @@ http://live.redtraffic.xyz:80/bigdick.m3u8
 http://live.redtraffic.xyz:80/pov.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",Blonde 2
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+
